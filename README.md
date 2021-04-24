@@ -65,6 +65,18 @@ git config user.email
 ```
 this command will show  an email of the user(author)
 the both commands above will set the author. When you git commit is done by author, it will be easier to track down who made the changes.
+```
+git branch "branch name"
+```
+this command will create a new branch, usually branches created locally.
+```
+git checkout "branch name"
+```
+this command will change the branch
+```
+git pull
+```
+this command will sync your local branch with remote branch
 
 #### Notes
 
@@ -77,6 +89,10 @@ the both commands above will set the author. When you git commit is done by auth
 - Git doesn't recognize an empty folder, it won't track it. But if you create a file inside of it it will show on ```git status```.
 
 - There are three states of a file in a git: modified, staged and commited.
+
+- Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
+
+- Merging pull requests (PR) also will be tracked as a commit
 
 ### Git vs GitHub
 
