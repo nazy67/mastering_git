@@ -77,6 +77,11 @@ this command will change the branch
 git pull
 ```
 this command will sync your local branch with remote branch
+```
+git fetch origin branch_name
+git checkout branch_name
+```
+this command will copy the branch from remote repository.
 
 #### Notes
 
