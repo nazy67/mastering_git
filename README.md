@@ -82,6 +82,10 @@ git fetch origin branch_name
 git checkout branch_name
 ```
 this command will copy the branch from remote repository.
+```
+git rebase origin 
+```
+this command will sync the remote main branch with local branch
 
 #### Notes
 
