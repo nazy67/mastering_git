@@ -73,7 +73,7 @@ Pushed my feature/nazy branch to remote git-april2021 repository,
 git push -u origin feature/nazy
 ```
 
-<img src="feature.png" alt="aws" width="400" height="250">
+<img src="feature.png" alt="aws" width="300" height="250">
 
 After that pushed the ip.sh to remote feature/nazy branch,
 
@@ -83,7 +83,7 @@ git commit -m "added scripts_nazy/ip.sh"
 git push -u origin feature/nazy
 ```
 
-<img src="ip_sh_in_remote.png" alt="aws" width="200" height="250">
+<img src="ip_sh_in_remote.png" alt="aws" width="300" height="250">
 
 Created pull request (PR) form feature/nazy to dev,
 
