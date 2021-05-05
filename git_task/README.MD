@@ -65,7 +65,7 @@ And again checking the branch which we are working on with `git branch`, and out
 
 Added ip.sh to scripts_nazy on local feature/nazy branch
 
-<img src="ip.png" alt="aws" width="200" height="250">
+<img src="ip.png" alt="aws" width="300" height="250">
 
 Pushed my feature/nazy branch to remote git-april2021 repository,
 
@@ -73,7 +73,7 @@ Pushed my feature/nazy branch to remote git-april2021 repository,
 git push -u origin feature/nazy
 ```
 
-<img src="feature.png" alt="aws" width="200" height="250">
+<img src="feature.png" alt="aws" width="300" height="250">
 
 After that pushed the ip.sh to remote feature/nazy branch,
 
