@@ -87,4 +87,4 @@ git push -u origin feature/nazy
 
 Created pull request (PR) form feature/nazy to dev,
 
-<img src="PR.png" alt="aws" width="100" height="100">
+<img src="PR.png" alt="aws" width="220" height="100">
