@@ -86,6 +86,14 @@ this command will copy the branch from remote repository.
 git rebase origin 
 ```
 this command will sync the remote main branch with local branch
+```
+git branch -d feature/nazy
+```
+this command will delete local feature branch
+```
+git push origin --delete feature/nazy
+```
+this command will delete remote feature branch
 
 #### Notes
 
