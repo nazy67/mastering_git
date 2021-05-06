@@ -5,7 +5,7 @@ Homework:
 - [x] 3. Push the code to your feature branch.
 - [x] 4. Create a pull request feature to dev.
 - [x] 5. Request a review from your class mates on your PR.
-- [ ] 6. Please review/comment/approve your class mates PRs.
+- [x] 6. Please review/comment/approve your class mates PRs.
 
 `git branch` - is the first command we need to run, to check which branch we are on and output from it will look like this:
 
@@ -65,7 +65,7 @@ And again checking the branch which we are working on with `git branch`, and out
 
 Added ip.sh to scripts_nazy on local feature/nazy branch
 
-<img src="ip.png" alt="aws" width="300" height="250">
+<img src="ip.png" alt="aws" width="230" height="250">
 
 Pushed my feature/nazy branch to remote git-april2021 repository,
 
@@ -83,8 +83,12 @@ git commit -m "added scripts_nazy/ip.sh"
 git push -u origin feature/nazy
 ```
 
-<img src="ip_sh_in_remote.png" alt="aws" width="300" height="250">
+<img src="ip_sh_in_remote.png" alt="aws" width="350" height="250">
 
 Created pull request (PR) form feature/nazy to dev,
 
 <img src="PR.png" alt="aws" width="300" height="100">
+
+Merged after approval,
+
+<img src="merged_PR.png" alt="aws" width="500" height="100">
