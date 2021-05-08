@@ -70,6 +70,14 @@ git branch "branch name"
 ```
 this command will create a new branch, usually branches created locally.
 ```
+git branch -a
+```
+will list all local branches
+```
+git branch -r
+```
+will list all your remote branch
+```
 git checkout "branch name"
 ```
 this command will change the branch
