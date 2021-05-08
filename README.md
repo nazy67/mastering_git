@@ -94,6 +94,10 @@ this command will delete local feature branch
 git push origin --delete feature/nazy
 ```
 this command will delete remote feature branch
+```
+git clone --branch `branchname` git@github.com:aKumoSolutions/git-april2021.git
+```
+this command will clone a specific branch from the remote repository
 
 #### Notes
 
