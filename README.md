@@ -106,6 +106,10 @@ this command will delete remote feature branch
 git clone --branch `branchname` git@github.com:aKumoSolutions/git-april2021.git
 ```
 this command will clone a specific branch from the remote repository
+```
+git commit --amend  
+```
+This command takes your staging area and used it for the commit ,  if you have made no changes since your last commit (you run this command right after) then your snapshot will look exactly the same and you can change your commit message. Commit message editor pops up and will have your previous commit message.
 
 #### Notes
 
