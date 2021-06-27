@@ -131,3 +131,16 @@ This command takes your staging area and used it for the commit ,  if you have m
 
 GitHub is not Git. GitHub is a website for hosting projects that use Git. Git is a tool a developer installs locally on their computer, while GitHub is an online service that stores  pushed code to it from computers running the Git tool. The main difference between Git and GitHub is in their functionality. While they both provide source code management (SCM) and make merging and sharing code easier, this is pretty much where their similarities end. Think of Git as a single computer and GitHub as a network of multiple interconnected computers, all with the same end goal but a wildly different role for how to get there.
 GitHub is  a hosted Git ,  allows you to create repositories and keep a track of your code.  Git is a tool that supports the version control system. 
+
+### What is Git?
+
+- Git is the tool which support version control system. 
+
+- Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during  software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).
+
+### What is GitHub?
+
+- VSC(Version Control System) and SCM(Source Code Management)
+- source code management. 
+- remote location for our code. (location to store our codes(files))
+- it has built in git.
